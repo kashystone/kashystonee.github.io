@@ -1,0 +1,23 @@
+body {
+    
+    color:#eee;
+    background-image: url(image/dark-grey-background-1600-1050-plain.webp);
+}
+
+.image{
+width: auto
+height: auto;
+text-align: center;
+position: absolute;
+margin: auto;
+top: 0;
+right: 0;
+bottom: 0;
+left: 0;
+}
+.description{
+    color: black;
+    text-align: center;
+    background: #f1f1f1;
+    
+}
